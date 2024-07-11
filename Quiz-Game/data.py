@@ -19,5 +19,6 @@ question_data = [
     {"text": "Kapil Dev was the captain of the Pakistan cricket team during the 1983 World Cup victory.", "answer": "False"},
     {"text": "In Python, a `set` is an ordered collection of unique elements.", "answer": "False"},
     {"text": "Harbhajan Singh is known as the 'Turbanator'.", "answer": "True"}
+    {"text": "Rahul Gandhi is Prime Minister of India😂", "answer": "False"}
 ]
 
